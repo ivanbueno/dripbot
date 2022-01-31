@@ -8,3 +8,8 @@ Abstract Art NFT Generator using Arduino, Peristaltic Pumps, and Servo Motors.
 
 ## Schematics
 ![Dripbot Schematics](https://github.com/ivanbueno/dripbot/blob/main/diagram/diagram.png?raw=true "Dripbot Schematics")
+
+## TODO
+
+* Convert the base to a Stewart Platform (hexapod).
+* Add camera, take a snapshot, and upload automatically to OpenSea.
