@@ -12,4 +12,4 @@ Abstract Art NFT Generator using Arduino, Peristaltic Pumps, and Servo Motors.
 ## TODO
 
 * Convert the base to a Stewart Platform (hexapod).
-* Add camera, take a snapshot, and upload automatically to OpenSea.
+* Add camera that takes a snapshot and uploads automatically to OpenSea.
